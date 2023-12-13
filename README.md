@@ -17,7 +17,8 @@ php artisan migrate
 php artisan db:seed
 ```
 <br>
-Alternatively, you may run the "reset_db.bat" file to migrate and seed the database.
+Alternatively, you may run this file to migrate and seed the database.
+
 ```
 reset_db.bat
 ```
@@ -28,4 +29,4 @@ php artisan key:generate
 ```
 <br>
 Once you're up and running, head over to the Vue.js side of the project for the User Interface. 
-<br><br>
+

@@ -23,7 +23,8 @@ Alternatively, you may run this file to migrate and seed the database.
 reset_db.bat
 ```
 <br>
-Then generate an App Key:
+Then generate an App Key.
+
 ```
 php artisan key:generate
 ```
